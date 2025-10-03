@@ -82,15 +82,6 @@
       ],
       "defaultControllerGroup": {},
       "mappings": [
-
-
-// Start of Mappings
-
-// Top Knobs
-
-// Start new "id" tags here
-
-
         {
           "id": "k6Zat3oX3g-WOlrLGrFGh",
           "name": "Top Knob Chan 1",
@@ -427,11 +418,6 @@
             }
           }
         },
-
-
-// Row 1 Scenes
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 1 Chan 1",
@@ -846,11 +832,6 @@
           }
         }
       },
-
-
-// Row 2 Scenes
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 2 Chan 1",
@@ -1229,11 +1210,6 @@
           }
         }
       },
-
-
-// Row 3 Scenes
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 3 Chan 1",
@@ -1612,11 +1588,6 @@
           }
         }
       },
-
-
-// Row 4 Scenes
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 4 Chan 1",
@@ -1995,11 +1966,6 @@
           }
         }
       },
-
-
-// Row 5 Scenes
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 5 Chan 1",
@@ -2378,10 +2344,6 @@
           }
         }
       },
-
-
-// Stop Buttons
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Stop 1",
@@ -2760,13 +2722,6 @@
           }
         }
       },
-
-
-
-// Select Buttons
-
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Select 1",
@@ -3145,10 +3100,6 @@
           }
         }
       },
-
-
-// Mute Buttons
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Mute 1",
@@ -3485,11 +3436,6 @@
           }
         }
       },
-
-
-// AB Buttons
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "AB Button 1",
@@ -3826,11 +3772,6 @@
           }
         }
       },
-
-
-// Solo Buttons
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Solo 1",
@@ -4167,11 +4108,6 @@
           }
         }
       },
-
-
-// Rec Buttons
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Record 1",
@@ -4508,11 +4444,6 @@
           }
         }
       },
-
-
-// Faders
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Fader 1",
@@ -4892,11 +4823,6 @@
           }
         }
       },
-
-
-// Device Knobs
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Device Knob 1",
@@ -5233,11 +5159,6 @@
           }
         }
       },
-
-
-// Tempo Cue AB
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Tempo",
@@ -5375,11 +5296,6 @@
           }
         }
       },
-
-
-// Rec Play Session
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Play",
@@ -5520,11 +5436,6 @@
           }
         }
       },
-
-
-// Metronome Tap Tempo
-
-
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Metronome",
@@ -5619,12 +5530,6 @@
           }
         }
       }
-
-// End new "id" tags here
-
-// End of Mappings
-
-
       ],
       "instanceFx": {
         "address": "Focused"
@@ -5633,5 +5538,3 @@
     "additionalUnits": []
   }
 }
-
-
