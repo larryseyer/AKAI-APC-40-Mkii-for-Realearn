@@ -1,0 +1,5521 @@
+{
+  "kind": "Instance",
+  "version": "2.18.1",
+  "value": {
+    "mainUnit": {
+      "version": "2.18.1",
+      "id": "bQ86aVaf",
+      "stayActiveWhenProjectInBackground": "OnlyIfBackgroundProjectIsRunning",
+      "livesOnUpperFloor": false,
+      "controlDeviceId": "2",
+      "feedbackDeviceId": "2",
+      "defaultGroup": {},
+      "groups": [
+        {
+          "id": "OP8rx3ncFPFBy0_laJpy5",
+          "name": "Top Knobs"
+        },
+        {
+          "id": "HFdQDBMPpalrrDjg549RE",
+          "name": "Row 1 Scenes"
+        },
+        {
+          "id": "gveY5dOivILOxJqJBrnKQ",
+          "name": "Row 2 Scenes"
+        },
+        {
+          "id": "N789jCzLb5eokIMnA9f4F",
+          "name": "Row 3 Scenes"
+        },
+        {
+          "id": "q9CyVnMnYRyxd-BJeH-3U",
+          "name": "Row 4 Scenes"
+        },
+        {
+          "id": "GgTrRqzfloR-vhbdDYwet",
+          "name": "Row 5 Scenes"
+        },
+        {
+          "id": "8asiMEbXDgEf_fGdKxwi8",
+          "name": "Stop Buttons"
+        },
+        {
+          "id": "PHkDEmKObDRkVh_abe9dw",
+          "name": "Select Buttons"
+        },
+        {
+          "id": "KKxpPhvsO7xeAxgFv-Zcj",
+          "name": "Mute Buttons"
+        },
+        {
+          "id": "3kd4EoRrF6RN3auMxgKhV",
+          "name": "AB Buttons"
+        },
+        {
+          "id": "VZovnSVKzlQqPQdYYQa1V",
+          "name": "Solo Buttons"
+        },
+        {
+          "id": "Jul1mT9VyAjPKh7a40bn8",
+          "name": "Record Buttons"
+        },
+        {
+          "id": "MxYDjkf3D37_jcyCmoXKW",
+          "name": "Faders"
+        },
+        {
+          "id": "Cl60y3pex7OG63V-DPhdP",
+          "name": "Device Knobs"
+        },
+        {
+          "id": "P4N9GjuYQiLfoLc0noIMK",
+          "name": "Tempo Cue AB"
+        },
+        {
+          "id": "mxFCCaXp7A3c29ogZqJhE",
+          "name": "Play Rec Session"
+        },
+        {
+          "id": "MX67JvKK6SQ-5WjbWZkht",
+          "name": "Met and Tap Tempo"
+        }
+      ],
+      "defaultControllerGroup": {},
+      "mappings": [
+
+
+// Start of Mappings
+
+// Top Knobs
+
+// Start new "id" tags here
+
+
+        {
+          "id": "k6Zat3oX3g-WOlrLGrFGh",
+          "name": "Top Knob Chan 1",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 48,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "Smktl6A3WWwKDx85pU4Vv",
+          "name": "Top Knob Chan 2",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 49,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "7Pq2L9WaWqOAaBijzfsnp",
+          "name": "Top Knob Chan 3",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 50,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "Yui3eA7T0I_XFiCx3nWcC",
+          "name": "Top Knob Chan 4",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 51,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "tG2eASootuNO_JlkRM9DQ",
+          "name": "Top Knob Chan 5",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 52,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "ZdunvQPrLn_Ixx6VgVgDj",
+          "name": "Top Knob Chan 6",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 53,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "JcPFhzBtfCMtu7MU5nWgs",
+          "name": "Top Knob Chan 7",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 54,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+        {
+          "id": "OvTmduYY9kVrd1OLzCa3t",
+          "name": "Top Knob Chan 8",
+          "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
+            "channel": 0,
+            "number": 55,
+            "is14Bit": false,
+            "buttonIndex": 0,
+            "buttonDesign": {
+              "background": {
+                "kind": "Color"
+              },
+              "foreground": {
+                "kind": "None"
+              },
+              "static_text": ""
+            }
+          },
+          "mode": {
+            "maxStepSize": 0.05,
+            "minStepFactor": 1,
+            "maxStepFactor": 5
+          },
+          "target": {
+            "type": 53,
+            "fxAnchor": "id",
+            "useSelectionGanging": false,
+            "useTrackGrouping": false,
+            "seekBehavior": "Immediate",
+            "learnable": false,
+            "mouseAction": {
+              "kind": "MoveTo",
+              "axis": "X"
+            },
+            "pollForFeedback": false,
+            "takeMappingSnapshot": {
+              "kind": "ById",
+              "id": ""
+            }
+          }
+        },
+
+
+// Row 1 Scenes
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Row 1 Chan 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 32,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Row 1 Chan 2",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 33,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Row 1 Chan 3",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 34,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Row 1 Chan 4",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 35,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Row 1 Chan 5",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 36,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Row 1 Chan 6",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 37,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Row 1 Chan 7",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 38,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Row 1 Chan 8",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 39,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Row 1 Group Launch",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 82,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+
+
+
+// Row 2 Scenes
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Row 2 Chan 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 24,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Row 2 Chan 2",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 25,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Row 2 Chan 3",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 26,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Row 2 Chan 4",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 27,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Row 2 Chan 5",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 28,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Row 2 Chan 6",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 29,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Row 2 Chan 7",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 30,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Row 2 Chan 8",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 31,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Row 2 Group Launch",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 83,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+
+// Row 3 Scenes
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Row 3 Chan 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 16,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Row 3 Chan 2",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 17,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Row 3 Chan 3",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 18,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Row 3 Chan 4",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 19,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Row 3 Chan 5",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 20,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Row 3 Chan 6",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 21,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Row 3 Chan 7",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 22,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Row 3 Chan 8",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 23,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Row 3 Group Launch",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 84,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+
+// Row 4 Scenes
+
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Row 4 Chan 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 8,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Row 4 Chan 2",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 9,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Row 4 Chan 3",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 10,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Row 4 Chan 4",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 11,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Row 4 Chan 5",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 12,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Row 4 Chan 6",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 13,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Row 4 Chan 7",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 14,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Row 4 Chan 8",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 15,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Row 4 Group Launch",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 85,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// Row 5 Scenes
+
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Row 5 Chan 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Row 5 Chan 2",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 1,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Row 5 Chan 3",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 2,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Row 5 Chan 4",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 3,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Row 5 Chan 5",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 4,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Row 5 Chan 6",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 5,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Row 5 Chan 7",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 6,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Row 5 Chan 8",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 7,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Row 5 Group Launch",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 86,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// Stop Buttons
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Stop 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Stop 2",
+        "source": {
+          "type": 1,
+          "channel": 1,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Stop 3",
+        "source": {
+          "type": 1,
+          "channel": 2,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Stop 4",
+        "source": {
+          "type": 1,
+          "channel": 3,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Stop 5",
+        "source": {
+          "type": 1,
+          "channel": 4,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Stop 6",
+        "source": {
+          "type": 1,
+          "channel": 5,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Stop 7",
+        "source": {
+          "type": 1,
+          "channel": 6,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Stop 8",
+        "source": {
+          "type": 1,
+          "channel": 7,
+          "number": 52,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Stop Group",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 81,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+
+// Select Buttons
+
+
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Select 1",
+        "source": {
+          "channel": 0,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Select 2",
+        "source": {
+          "channel": 1,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Select 3",
+        "source": {
+          "channel": 2,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Select 4",
+        "source": {
+          "channel": 3,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Select 5",
+        "source": {
+          "channel": 4,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Select 6",
+        "source": {
+          "channel": 5,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Select 7",
+        "source": {
+          "channel": 6,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Select 8",
+        "source": {
+          "channel": 7,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Select Group",
+        "source": {
+          "channel": 8,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// Mute Buttons
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Mute 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Mute 2",
+        "source": {
+          "type": 1,
+          "channel": 1,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Mute 3",
+        "source": {
+          "type": 1,
+          "channel": 2,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Mute 4",
+        "source": {
+          "type": 1,
+          "channel": 3,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Mute 5",
+        "source": {
+          "type": 1,
+          "channel": 4,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Mute 6",
+        "source": {
+          "type": 1,
+          "channel": 5,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Mute 7",
+        "source": {
+          "type": 1,
+          "channel": 6,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Mute 8",
+        "source": {
+          "type": 1,
+          "channel": 7,
+          "number": 50,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// AB Buttons
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "AB Button 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "AB Button 2",
+        "source": {
+          "type": 1,
+          "channel": 1,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "AB Button 3",
+        "source": {
+          "type": 1,
+          "channel": 2,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "AB Button 4",
+        "source": {
+          "type": 1,
+          "channel": 3,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "AB Button 5",
+        "source": {
+          "type": 1,
+          "channel": 4,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "AB Button 6",
+        "source": {
+          "type": 1,
+          "channel": 5,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "AB Button 7",
+        "source": {
+          "type": 1,
+          "channel": 6,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "AB Button 8",
+        "source": {
+          "type": 1,
+          "channel": 7,
+          "number": 66,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+// Solo Buttons
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Solo 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Solo 2",
+        "source": {
+          "type": 1,
+          "channel": 1,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Solo 3",
+        "source": {
+          "type": 1,
+          "channel": 2,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Solo 4",
+        "source": {
+          "type": 1,
+          "channel": 3,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Solo 5",
+        "source": {
+          "type": 1,
+          "channel": 4,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Solo 6",
+        "source": {
+          "type": 1,
+          "channel": 5,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Solo 7",
+        "source": {
+          "type": 1,
+          "channel": 6,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Solo 8",
+        "source": {
+          "type": 1,
+          "channel": 7,
+          "number": 49,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+// Rec Buttons
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Record 1",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Record 2",
+        "source": {
+          "type": 1,
+          "channel": 1,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Record 3",
+        "source": {
+          "type": 1,
+          "channel": 2,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Record 4",
+        "source": {
+          "type": 1,
+          "channel": 3,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Record 5",
+        "source": {
+          "type": 1,
+          "channel": 4,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Record 6",
+        "source": {
+          "type": 1,
+          "channel": 5,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Record 7",
+        "source": {
+          "type": 1,
+          "channel": 6,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Record 8",
+        "source": {
+          "type": 1,
+          "channel": 7,
+          "number": 48,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+// Faders
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Fader 1",
+        "source": {
+          "channel": 0,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Fader 2",
+        "source": {
+          "channel": 1,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Fader 3",
+        "source": {
+          "channel": 2,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Fader 4",
+        "source": {
+          "channel": 3,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Fader 5",
+        "source": {
+          "channel": 4,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Fader 6",
+        "source": {
+          "channel": 5,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Fader 7",
+        "source": {
+          "channel": 6,
+          "number": 7,
+          "character": 3,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Fader 8",
+        "source": {
+          "channel": 7,
+          "number": 7,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Z217zBwuL_PqirmJrFrF3",
+        "name": "Master Fader",
+        "source": {
+          "channel": 0,
+          "number": 14,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// Device Knobs
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Device Knob 1",
+        "source": {
+          "channel": 0,
+          "number": 16,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Device Knob 2",
+        "source": {
+          "channel": 0,
+          "number": 17,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Device Knob 3",
+        "source": {
+          "channel": 0,
+          "number": 18,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "Yui3eA7T0I_XFiCx3nWcC",
+        "name": "Device Knob 4",
+        "source": {
+          "channel": 0,
+          "number": 19,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "tG2eASootuNO_JlkRM9DQ",
+        "name": "Device Knob 5",
+        "source": {
+          "channel": 0,
+          "number": 20,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "ZdunvQPrLn_Ixx6VgVgDj",
+        "name": "Device Knob 6",
+        "source": {
+          "channel": 0,
+          "number": 21,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "JcPFhzBtfCMtu7MU5nWgs",
+        "name": "Device Knob 7",
+        "source": {
+          "channel": 0,
+          "number": 22,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+      {
+        "id": "OvTmduYY9kVrd1OLzCa3t",
+        "name": "Device Knob 8",
+        "source": {
+          "channel": 0,
+          "number": 23,
+          "is14Bit": false,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "learnable": false,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "pollForFeedback": false,
+          "takeMappingSnapshot": {
+            "kind": "ById",
+            "id": ""
+          }
+        }
+      },
+
+
+// Tempo Cue AB
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Tempo",
+        "source": {
+          "channel": 0,
+          "number": 13,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Cue",
+        "source": {
+          "channel": 0,
+          "number": 47,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "AB Fader",
+        "source": {
+          "channel": 0,
+          "number": 15,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+
+// Rec Play Session
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Play",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 91,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Rec",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 93,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "7Pq2L9WaWqOAaBijzfsnp",
+        "name": "Session",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 102,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+
+
+// Metronome Tap Tempo
+
+
+      {
+        "id": "k6Zat3oX3g-WOlrLGrFGh",
+        "name": "Metronome",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 90,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      },
+      {
+        "id": "Smktl6A3WWwKDx85pU4Vv",
+        "name": "Tap Tempo",
+        "source": {
+          "type": 1,
+          "channel": 0,
+          "number": 99,
+          "character": 2,
+          "isRegistered": false,
+          "is14Bit": false,
+          "oscArgIndex": 0,
+          "buttonIndex": 0,
+          "buttonDesign": {
+            "background": {
+              "kind": "Color"
+            },
+            "foreground": {
+              "kind": "None"
+            },
+            "static_text": ""
+          }
+        },
+        "mode": {
+          "maxStepSize": 0.05,
+          "minStepFactor": 1,
+          "maxStepFactor": 5
+        },
+        "target": {
+          "type": 53,
+          "fxAnchor": "id",
+          "useSelectionGanging": false,
+          "useTrackGrouping": false,
+          "seekBehavior": "Immediate",
+          "useProject": true,
+          "moveView": true,
+          "seekPlay": true,
+          "oscArgIndex": 0,
+          "mouseAction": {
+            "kind": "MoveTo",
+            "axis": "X"
+          },
+          "takeMappingSnapshot": {
+            "kind": "LastLoaded"
+          }
+        }
+      }
+
+// End new "id" tags here
+
+// End of Mappings
+
+
+      ],
+      "instanceFx": {
+        "address": "Focused"
+      }
+    },
+    "additionalUnits": []
+  }
+}
+
+

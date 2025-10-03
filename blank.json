@@ -1,0 +1,93 @@
+{
+  "kind": "Instance",
+  "version": "2.18.1",
+  "value": {
+    "mainUnit": {
+      "version": "2.18.1",
+      "id": "bQ86aVaf",
+      "letMatchedEventsThrough": true,
+      "stayActiveWhenProjectInBackground": "OnlyIfBackgroundProjectIsRunning",
+      "livesOnUpperFloor": false,
+      "controlDeviceId": "2",
+      "feedbackDeviceId": "2",
+      "defaultGroup": {},
+      "groups": [
+        {
+          "id": "OP8rx3ncFPFBy0_laJpy5",
+          "name": "Top Knobs"
+        },
+        {
+          "id": "HFdQDBMPpalrrDjg549RE",
+          "name": "Row 1 Scenes"
+        },
+        {
+          "id": "gveY5dOivILOxJqJBrnKQ",
+          "name": "Row 2 Scenes"
+        },
+        {
+          "id": "N789jCzLb5eokIMnA9f4F",
+          "name": "Row 3 Scenes"
+        },
+        {
+          "id": "q9CyVnMnYRyxd-BJeH-3U",
+          "name": "Row 4 Scenes"
+        },
+        {
+          "id": "GgTrRqzfloR-vhbdDYwet",
+          "name": "Row 5 Scenes"
+        },
+        {
+          "id": "8asiMEbXDgEf_fGdKxwi8",
+          "name": "Stop Buttons"
+        },
+        {
+          "id": "PHkDEmKObDRkVh_abe9dw",
+          "name": "Select Buttons"
+        },
+        {
+          "id": "KKxpPhvsO7xeAxgFv-Zcj",
+          "name": "Mute Buttons"
+        },
+        {
+          "id": "3kd4EoRrF6RN3auMxgKhV",
+          "name": "AB Buttons"
+        },
+        {
+          "id": "VZovnSVKzlQqPQdYYQa1V",
+          "name": "Solo Buttons"
+        },
+        {
+          "id": "Jul1mT9VyAjPKh7a40bn8",
+          "name": "Record Buttons"
+        },
+        {
+          "id": "MxYDjkf3D37_jcyCmoXKW",
+          "name": "Faders"
+        },
+        {
+          "id": "Cl60y3pex7OG63V-DPhdP",
+          "name": "Device Knobs"
+        },
+        {
+          "id": "P4N9GjuYQiLfoLc0noIMK",
+          "name": "Tempo Cue AB"
+        },
+        {
+          "id": "mxFCCaXp7A3c29ogZqJhE",
+          "name": "Play Rec Session"
+        },
+        {
+          "id": "MX67JvKK6SQ-5WjbWZkht",
+          "name": "Met and Tap Tempo"
+        }
+      ],
+      "defaultControllerGroup": {},
+      "instanceFx": {
+        "address": "Focused"
+      }
+    },
+    "additionalUnits": []
+  }
+}
+
+
