@@ -435,7 +435,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 1 Chan 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 32,
@@ -480,7 +481,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Row 1 Chan 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 33,
@@ -525,7 +527,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Row 1 Chan 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 34,
@@ -570,7 +573,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Row 1 Chan 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 35,
@@ -615,7 +619,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Row 1 Chan 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 36,
@@ -660,7 +665,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Row 1 Chan 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 37,
@@ -705,7 +711,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Row 1 Chan 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 38,
@@ -750,7 +757,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Row 1 Chan 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 39,
@@ -795,7 +803,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Row 1 Group Launch",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 82,
@@ -846,7 +855,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 2 Chan 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 24,
@@ -887,7 +897,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Row 2 Chan 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 25,
@@ -928,7 +939,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Row 2 Chan 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 26,
@@ -969,7 +981,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Row 2 Chan 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 27,
@@ -1010,7 +1023,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Row 2 Chan 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 28,
@@ -1051,7 +1065,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Row 2 Chan 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 29,
@@ -1092,7 +1107,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Row 2 Chan 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 30,
@@ -1133,7 +1149,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Row 2 Chan 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 31,
@@ -1174,7 +1191,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Row 2 Group Launch",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 83,
@@ -1221,7 +1239,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 3 Chan 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 16,
@@ -1262,7 +1281,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Row 3 Chan 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 17,
@@ -1303,7 +1323,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Row 3 Chan 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 18,
@@ -1344,7 +1365,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Row 3 Chan 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 19,
@@ -1385,7 +1407,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Row 3 Chan 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 20,
@@ -1426,7 +1449,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Row 3 Chan 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 21,
@@ -1467,7 +1491,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Row 3 Chan 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 22,
@@ -1508,7 +1533,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Row 3 Chan 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 23,
@@ -1549,7 +1575,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Row 3 Group Launch",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 84,
@@ -1597,7 +1624,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 4 Chan 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 8,
@@ -1638,7 +1666,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Row 4 Chan 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 9,
@@ -1679,7 +1708,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Row 4 Chan 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 10,
@@ -1720,7 +1750,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Row 4 Chan 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 11,
@@ -1761,7 +1792,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Row 4 Chan 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 12,
@@ -1802,7 +1834,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Row 4 Chan 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 13,
@@ -1843,7 +1876,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Row 4 Chan 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 14,
@@ -1884,7 +1918,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Row 4 Chan 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 15,
@@ -1925,7 +1960,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Row 4 Group Launch",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 85,
@@ -1972,7 +2008,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Row 5 Chan 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 0,
@@ -2013,7 +2050,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Row 5 Chan 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 1,
@@ -2054,7 +2092,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Row 5 Chan 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 2,
@@ -2095,7 +2134,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Row 5 Chan 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 3,
@@ -2136,7 +2176,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Row 5 Chan 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 4,
@@ -2177,7 +2218,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Row 5 Chan 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 5,
@@ -2218,7 +2260,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Row 5 Chan 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 6,
@@ -2259,7 +2302,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Row 5 Chan 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 7,
@@ -2300,7 +2344,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Row 5 Group Launch",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 86,
@@ -2346,7 +2391,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Stop 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 52,
@@ -2387,7 +2433,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Stop 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 1,
           "number": 52,
@@ -2428,7 +2475,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Stop 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 2,
           "number": 52,
@@ -2469,7 +2517,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Stop 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 3,
           "number": 52,
@@ -2510,7 +2559,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Stop 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 4,
           "number": 52,
@@ -2551,7 +2601,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Stop 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 5,
           "number": 52,
@@ -2592,7 +2643,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Stop 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 6,
           "number": 52,
@@ -2633,7 +2685,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Stop 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 7,
           "number": 52,
@@ -2674,7 +2727,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Stop Group",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 81,
@@ -2723,7 +2777,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Select 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 16,
           "is14Bit": false,
@@ -2764,7 +2819,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Select 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 1,
           "number": 16,
           "is14Bit": false,
@@ -2805,7 +2861,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Select 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 2,
           "number": 16,
           "is14Bit": false,
@@ -2846,7 +2903,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Select 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 3,
           "number": 16,
           "is14Bit": false,
@@ -2887,7 +2945,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Select 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 4,
           "number": 16,
           "is14Bit": false,
@@ -2928,7 +2987,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Select 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 5,
           "number": 16,
           "is14Bit": false,
@@ -2969,7 +3029,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Select 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 6,
           "number": 16,
           "is14Bit": false,
@@ -3010,7 +3071,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Select 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 7,
           "number": 16,
           "is14Bit": false,
@@ -3051,7 +3113,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Select Group",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 8,
           "number": 16,
           "is14Bit": false,
@@ -3097,7 +3160,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Mute 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 50,
@@ -3138,7 +3202,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Mute 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 1,
           "number": 50,
@@ -3179,7 +3244,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Mute 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 2,
           "number": 50,
@@ -3220,7 +3286,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Mute 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 3,
           "number": 50,
@@ -3261,7 +3328,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Mute 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 4,
           "number": 50,
@@ -3302,7 +3370,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Mute 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 5,
           "number": 50,
@@ -3343,7 +3412,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Mute 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 6,
           "number": 50,
@@ -3384,7 +3454,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Mute 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 7,
           "number": 50,
@@ -3430,7 +3501,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "AB Button 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 66,
@@ -3471,7 +3543,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "AB Button 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 1,
           "number": 66,
@@ -3512,7 +3585,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "AB Button 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 2,
           "number": 66,
@@ -3553,7 +3627,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "AB Button 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 3,
           "number": 66,
@@ -3594,7 +3669,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "AB Button 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 4,
           "number": 66,
@@ -3635,7 +3711,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "AB Button 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 5,
           "number": 66,
@@ -3676,7 +3753,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "AB Button 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 6,
           "number": 66,
@@ -3717,7 +3795,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "AB Button 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 7,
           "number": 66,
@@ -3762,7 +3841,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Solo 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 49,
@@ -3803,7 +3883,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Solo 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 1,
           "number": 49,
@@ -3844,7 +3925,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Solo 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 2,
           "number": 49,
@@ -3885,7 +3967,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Solo 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 3,
           "number": 49,
@@ -3926,7 +4009,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Solo 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 4,
           "number": 49,
@@ -3967,7 +4051,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Solo 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 5,
           "number": 49,
@@ -4008,7 +4093,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Solo 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 6,
           "number": 49,
@@ -4049,7 +4135,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Solo 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 7,
           "number": 49,
@@ -4094,7 +4181,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Record 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 48,
@@ -4135,7 +4223,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Record 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 1,
           "number": 48,
@@ -4176,7 +4265,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Record 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 2,
           "number": 48,
@@ -4217,7 +4307,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Record 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 3,
           "number": 48,
@@ -4258,7 +4349,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Record 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 4,
           "number": 48,
@@ -4299,7 +4391,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Record 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 5,
           "number": 48,
@@ -4340,7 +4433,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Record 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 6,
           "number": 48,
@@ -4381,7 +4475,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Record 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 7,
           "number": 48,
@@ -4426,7 +4521,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Fader 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 7,
           "is14Bit": false,
@@ -4467,7 +4563,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Fader 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 1,
           "number": 7,
           "is14Bit": false,
@@ -4508,7 +4605,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Fader 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 2,
           "number": 7,
           "is14Bit": false,
@@ -4549,7 +4647,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Fader 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 3,
           "number": 7,
           "is14Bit": false,
@@ -4590,7 +4689,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Fader 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 4,
           "number": 7,
           "is14Bit": false,
@@ -4631,7 +4731,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Fader 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 5,
           "number": 7,
           "is14Bit": false,
@@ -4672,7 +4773,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Fader 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 6,
           "number": 7,
           "character": 3,
@@ -4714,7 +4816,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Fader 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 7,
           "number": 7,
           "is14Bit": false,
@@ -4755,7 +4858,8 @@
       {
         "id": "Z217zBwuL_PqirmJrFrF3",
         "name": "Master Fader",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 14,
           "is14Bit": false,
@@ -4801,7 +4905,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Device Knob 1",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 16,
           "is14Bit": false,
@@ -4842,7 +4947,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Device Knob 2",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 17,
           "is14Bit": false,
@@ -4883,7 +4989,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Device Knob 3",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 18,
           "is14Bit": false,
@@ -4924,7 +5031,8 @@
       {
         "id": "Yui3eA7T0I_XFiCx3nWcC",
         "name": "Device Knob 4",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 19,
           "is14Bit": false,
@@ -4965,7 +5073,8 @@
       {
         "id": "tG2eASootuNO_JlkRM9DQ",
         "name": "Device Knob 5",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 20,
           "is14Bit": false,
@@ -5006,7 +5115,8 @@
       {
         "id": "ZdunvQPrLn_Ixx6VgVgDj",
         "name": "Device Knob 6",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 21,
           "is14Bit": false,
@@ -5047,7 +5157,8 @@
       {
         "id": "JcPFhzBtfCMtu7MU5nWgs",
         "name": "Device Knob 7",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 22,
           "is14Bit": false,
@@ -5088,7 +5199,8 @@
       {
         "id": "OvTmduYY9kVrd1OLzCa3t",
         "name": "Device Knob 8",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 23,
           "is14Bit": false,
@@ -5134,7 +5246,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Tempo",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 13,
           "character": 2,
@@ -5179,7 +5292,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Cue",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 47,
           "character": 2,
@@ -5224,7 +5338,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "AB Fader",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "channel": 0,
           "number": 15,
           "isRegistered": false,
@@ -5272,7 +5387,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Play",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 91,
@@ -5318,7 +5434,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Rec",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 93,
@@ -5364,7 +5481,8 @@
       {
         "id": "7Pq2L9WaWqOAaBijzfsnp",
         "name": "Session",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 102,
@@ -5414,7 +5532,8 @@
       {
         "id": "k6Zat3oX3g-WOlrLGrFGh",
         "name": "Metronome",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 90,
@@ -5460,7 +5579,8 @@
       {
         "id": "Smktl6A3WWwKDx85pU4Vv",
         "name": "Tap Tempo",
-        "source": {
+        "groupId": "OP8rx3ncFPFBy0_laJpy5",
+          "source": {
           "type": 1,
           "channel": 0,
           "number": 99,
