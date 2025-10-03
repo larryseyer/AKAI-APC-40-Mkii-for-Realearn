@@ -64,3 +64,4 @@ work_output.json
 
 #work files
 ignore/
+__pycache__/
